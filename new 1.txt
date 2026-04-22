@@ -1,0 +1,42 @@
+<doctype html>
+<html>
+		<head>
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<link rel="stylesheet" href="styles.css">
+			<title>Angkor</title>
+			<link rel="icon" type="image/x-icon" href="image/angkorwat.png">
+</head>
+	<style>
+div.mycontainer{
+	width:100%;
+	overflow:auto;
+}
+div.mycontainer
+
+div{
+	width:33.33%
+	float:left;
+}
+</style>
+	</head>
+<body>
+	<div>
+		<marquee behavior="slide" direction="down">
+		<img src="images/banner.jpg" alt="Images" style="width:100%;">
+		</marquee>
+		<a href="https://cost.uc.edu.kh/">Visit Cambodia Tourism</a><br>
+	<h1><marquee behavior="scroll" direction="right" scrollamount="8"><img src="images/angkorwat.png" alt="Images" style="width:80px;height:60px;">🌸 <em>Kingdom of Wonder Toruism</em> 🌸</marquee></h1>
+</div>
+
+		<div class="mycontainer">
+		<div style="background-color: #f5eef8">
+		<h2> Angkor Wat Temple</h2>
+		<img src ="images/angkor1.jpg" alr="Images" style="width:490px;height:350px,">
+	<p> Angkor Wat is a temple complex in Cambodia and the largest religious monument in the world, on a site measuring 162.6 hectares (1,626,000 m2; 402 acres). It was originally constructed as a Hindu temple dedicated to the god Vishnu for the Khmer Empire, gradually transforming into a Buddhist temple towards the end of the 12th century. It was built by the Khmer King Suryavarman II in the early 12th century in Yaśodharapura, the capital of the Khmer Empire, as his state temple and eventual mausoleum. Breaking from the Shaiva tradition of previous kings, Angkor Wat was instead dedicated to Vishnu. As the best-preserved temple at the site, it is the only one to have remained a significant religious centre since its foundation. The temple is at the top of the high classical style of Khmer architecture. It has become a symbol of Cambodia, appearing on its national flag, and it is the countrys prime attraction for visitors.
+Angkor Wat combines two basic plans of Khmer temple architecture: the temple-mountain and the later galleried temple. It is designed to represent Mount Meru, home of the devas in Hindu mythology: within a moat and an outer wall 3.6 kilometres (2.2 mi) long are three rectangular galleries, each raised above the next. At the centre of the temple stands a quincunx of towers. Unlike most Angkorian temples, Angkor Wat is oriented to the west; scholars are divided as to the significance of this. The temple is admired for the grandeur and harmony of the architecture, its extensive bas-reliefs, and for the numerous devatas adorning its walls
+</div>
+
+		<div style="background-color:#f5eef8;">
+		<h2>Angkor Thom</h2>
+		<img src="images/angkor2.jpg" alr="Images" style="width:490px;height:350px,">
